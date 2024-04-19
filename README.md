@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishek-sanwal
-- 👀 I’m interested in Data Engineering, GenAi, Competative coding, Python, SQl Development.
+- 👀 I’m interested in Backend Development, Data Engineering, GenAi, Competitive coding, Python, SQL.
 - 🌱 I’m currently learning design principles.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me through Linkedin.
