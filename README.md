@@ -44,9 +44,9 @@ You can find me on [Email](mailto:abhisheksanwal.work@gmail.com) or [LinkedIn](h
 
 <p align="center">
   <a></a>
-<img height="120" width="150" src="https://github.com/night-fury-3/night-fury-3/blob/main/left.png"/>
+<img height="120" width="150" src="https://github.com/abhishek-sanwal/abhishek-sanwal/blob/main/left.png"/>
 <img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=abhishek-sanwal&theme=dark&hide_border=true"](https://git.io/streak-stats/> 
-<img height="120" width="150" src="https://github.com/night-fury-3/night-fury-3/blob/main/right.png"/>
+<img height="120" width="150" src="https://github.com/abhishek-sanwal/abhishek-sanwal/blob/main/right.png"/>
 </a>
 </p>
 
