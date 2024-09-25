@@ -1,7 +1,6 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
 <h3 align="center">
-
-Hi, I am Abhishek Sanwal a Software Engineer at TCS.👋
+Hi, I am Abhishek Sanwal a  Full Stack Software Engineer at TCS.👋
 </h3>
 
 ## 👨‍💻 About Me
@@ -12,7 +11,7 @@ Hi, I am Abhishek Sanwal a Software Engineer at TCS.👋
 - 💯 I help people achieve their goals with impactful mentorship and techniques.
 - 📫 How to reach me:
 <!-- Actual text -->
-You can find me on [LinkedIn](www.linkedin.com/in/abhishek-sanwal)
+You can find me on [LinkedIn](mailto:abhisheksanwal.work@gmail.com)
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
 
