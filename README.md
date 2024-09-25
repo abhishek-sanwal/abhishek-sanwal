@@ -45,4 +45,8 @@ You can find me on [LinkedIn](www.linkedin.com/in/abhishek-sanwal)
 
 ## 📈 Github Stats
 
+![V](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-sanwal-3&theme=github)
+![B](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-sanwal-3&theme=github)
+![S](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-sanwal-3&theme=github)
+![T](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-sanwal-3&theme=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sanwal&show_icons=true&theme=transparent&layout=donut)
