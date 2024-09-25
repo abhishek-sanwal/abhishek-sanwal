@@ -42,8 +42,24 @@ You can find me on [Email](mailto:abhisheksanwal.work@gmail.com) or [LinkedIn](h
 
 ## 📈 Github Stats
 
-![V](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-sanwal-3&theme=github)
-![B](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-sanwal-3&theme=github)
-![S](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-sanwal-3&theme=github)
-![T](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-sanwal-3&theme=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sanwal&show_icons=true&theme=transparent&layout=donut)
+<p align="center">
+  <a></a>
+<img height="120" width="150" src="https://github.com/night-fury-3/night-fury-3/blob/main/left.png"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=abhishek-sanwal&theme=dark&hide_border=true"](https://git.io/streak-stats/> 
+<img height="120" width="150" src="https://github.com/night-fury-3/night-fury-3/blob/main/right.png"/>
+</a>
+</p>
+
+<p align="center">
+  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-sanwal&theme=github_dark"/>
+
+</p>
+
+<p align = "center">
+  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-sanwal&theme=github_dark"/>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sanwal&show_icons=true&theme=transparent&layout=donut"/>
+
+</p>
