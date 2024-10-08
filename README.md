@@ -44,7 +44,7 @@ You can find me on [Email](mailto:abhisheksanwal.work@gmail.com) or [LinkedIn](h
 
 <p align="center">
 <img height="120" width="150" src="https://github.com/abhishek-sanwal/abhishek-sanwal/blob/main/left.png"/>
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=abhishek-sanwal&theme=dark&hide_border=true"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=abhishek-sanwal&theme=github_dark&hide_border=true"/>
 <img height="120" width="150" src="https://github.com/abhishek-sanwal/abhishek-sanwal/blob/main/right.png"/>
 </p>
 
