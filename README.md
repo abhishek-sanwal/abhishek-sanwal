@@ -13,7 +13,6 @@ Hi, I am Abhishek Sanwal a  Full Stack Software Engineer at TCS.👋
 <!-- Actual text -->
 You can find me on [Email](mailto:abhisheksanwal.work@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishek-sanwal)
 
-
 ## 💼 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -44,7 +43,7 @@ You can find me on [Email](mailto:abhisheksanwal.work@gmail.com) or [LinkedIn](h
 
 <p align="center">
 <img height="120" width="150" src="https://github.com/abhishek-sanwal/abhishek-sanwal/blob/main/left.png"/>
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=abhishek-sanwal&theme=github_dark&hide_border=true"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=abhishek-sanwal&theme=github-dark&hide_border=true"/>
 <img height="120" width="150" src="https://github.com/abhishek-sanwal/abhishek-sanwal/blob/main/right.png"/>
 </p>
 
@@ -57,7 +56,7 @@ You can find me on [Email](mailto:abhisheksanwal.work@gmail.com) or [LinkedIn](h
 <p align = "center">
   
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-sanwal&theme=github_dark"/>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sanwal&show_icons=true&theme=transparent&layout=donut"/>
 
 </p>
