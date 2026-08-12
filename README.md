@@ -1,6 +1,6 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
 <h3 align="center">
-Hi, I am Abhishek Sanwal a  Full Stack Software Engineer at TCS.👋 
+Hi, I am Abhishek Sanwal a  Full Stack Software Engineer at SkillSauce.👋 
 </h3>
 
 ## 👨‍💻 About Me
